@@ -1,6 +1,8 @@
 # Organizacao-de-sistemas-de-computacao
 Programas em Assembly x86 (MASM/TASM)
 
+Olá sou o Lucas Leal Ibrahim, aluno do 2o semestre de engenharia da computacão
+
 Atividade 01
  
   - ATIV1_1: Verificar seu funcionamento usando o DEBUGGER.
@@ -31,8 +33,13 @@ Atividade 05:
 
   - ATIV5_4: Programa que exibe todas as letras minúsculas na tela, exibindo 4 letras por linha.
 
-  - ATIV5_5:  Programa que calcule a somatória de 5 números a serem lidos e imprima a somatória deles. Para testar o programa entre com números cuja a somatória seja no máximo 9
+  - ATIV5_5:  Programa que calcule a somatória de 5 números a serem lidos e imprima a somatória deles. Para testar o programa entre com números cuja a somatória seja no máximo 9.
 
+Atividade 06:
+
+  - ATIV6_1: Programa que leia n caracteres enquanto for diferente de "cr"(enter), contar o numero de caracteres e imprimir n "*".
+
+  - ATIV6_2:
 
 
 
