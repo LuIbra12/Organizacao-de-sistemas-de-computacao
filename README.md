@@ -69,6 +69,12 @@ Atividade 09:
 
   - ATIV9_3: Programa que leia um vetor, inverta ele e imprima ele invertido.
 
+Atividade 10:
 
+  - ATIV10_1: Programa que imprima uma matriz (linhas e colunas) usando macros e procedimentos.
 
+  - ATIV10_2: Programa que leia uma matriz 4x4, imprima ela e imprima a soma de todos os seus elementos.
 
+Atividade 11:
+
+  - ATIV11: Programa que tenha uma entrada e saida decimal, hexadecimal e binaria.
