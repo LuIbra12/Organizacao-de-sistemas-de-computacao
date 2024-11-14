@@ -37,9 +37,37 @@ Atividade 05:
 
 Atividade 06:
 
-  - ATIV6_1: Programa que leia n caracteres enquanto for diferente de "cr"(enter), contar o numero de caracteres e imprimir n "*".
+  - ATIV6_1: Programa que leia n caracteres enquanto for diferente de "cr"(enter), contar o numero de caracteres e imprimir n "*" utilizando o WHILE.
 
-  - ATIV6_2:
+  - ATIV6_2: Programa que leia n caracteres enquanto for diferente de "cr"(enter), contar o numero de caracteres e imprimir n "*" utilizando o REPEAT.
+
+Atividade 07:
+
+  - ATIV7_1: Programa que realize uma divisão inteira entre dois números (0 a 9) por meio de subtracoes sucessivas e exiba como resultado o quociente e o resto da divisão.
+
+  - ATIV7_2: Programa que realize uma multiplicação inteira entre dois números (0 a 9) por meio de somas sucessivas e exiba o resultado da conta.
+
+Atividade 08:
+
+  - ATIV8_1: Programa que leia um numero binário do teclado.
+
+  - ATIV8_2: Programa que imprima um numero binário do teclado.
+
+  - ATIV8_3: Programa que leia um numero hexadecimal do teclado.
+
+  - ATIV8_4: Programa que imprima um numero hexadecimal do teclado.
+
+Atividade 09:
+
+  - ATIV9_1a: Programa que leia um vetor e imprima ele (usando LEA DX e BX).
+
+  - ATIV9_1b: Programa que leia um vetor e imprima ele (usando MOV DL e BX).
+
+  - ATIV9_2a: Programa que leia um vetor e imprima ele (usando SI).
+
+  - ATIV9_2b: Programa que leia um vetor e imprima ele (usando DI).
+
+  - ATIV9_3: Programa que leia um vetor, inverta ele e imprima ele invertido.
 
 
 
